@@ -15,7 +15,7 @@
 
 Figma: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634
 
-GitHub: https://github.com/vasiliev2294/russian-travel.git
+GitHub: https://vasiliev2294.github.io/russian-travel/
 
 Используемые технологии:
 

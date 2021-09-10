@@ -1,21 +1,20 @@
 .footer__column-link {
-    color: white;
-    text-decoration: none;
-    transition: opacity 0.1s ease;
+	color: white;
+	text-decoration: none;
+	transition: opacity 0.1s ease;
 
-    font-size: 16px;
-    line-height: 18px;
-    font-weight: normal;
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: normal;
 }
 
 .footer__column-link:hover {
-    opacity: 0.8;
+	opacity: 0.8;
 }
 
-@media (max-width:767px) { 
-    .footer__column-link {
-        font-size: 24px;
-        line-height: 24px;
-        font-weight: normal;
-    }
+@media (max-width: 767px) {
+	.footer__column-link {
+		font-size: 24px;
+		line-height: 24px;
+	}
 }
